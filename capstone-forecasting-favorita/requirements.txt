@@ -1,0 +1,13 @@
+# Entorno de referencia: Python 3.13.5
+xgboost==3.4.1
+lightgbm==4.7.0
+optuna
+shap
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+pyarrow
+jupyterlab
